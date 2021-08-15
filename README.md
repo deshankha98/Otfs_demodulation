@@ -1,2 +1,3 @@
 # Otfs_demodulation
-Btech Project On demodulation technique of OTFS(Orthogonal Time Frequency Space) at imperfect Channel State Information and higher SNR(dB)
+Btech Project On demodulation technique of OTFS(Orthogonal Time Frequency Space) at imperfect Channel State Information and lower SNR(dB).
+In this project a modified technique for demodulation of OTFS modulation is developed based on an existing technique which uses Gibbs Sampling (an MCMC sampling technique). But its performance degrades significantly on  lower SNRs, our method utilizes and modifies the author's idea of using a temperature parameter to give significantly better results at lower SNR, we simulate its performance on imperfect CSI to observe better results at lower SNRs with little or no change in its performance at higher SNRs.
